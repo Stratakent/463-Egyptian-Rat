@@ -12,9 +12,12 @@ tools used
 python
 
 Testing methods:
+user test
 
 Use Cases:
-
+player attempts action when outside their turn
+player attempts to play cards when deck is empty
+slap scenarios (invalid slap, multiple slaps, valid slaps)
 
 slides 
 https://docs.google.com/presentation/d/1K1R6J0PL9SINpivXi9uiXvMoQimlve_scx8kN1FzVeY/edit#slide=id.p
